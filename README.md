@@ -200,6 +200,17 @@
  </p>
 </details>
 
+<details>
+<summary> f) Plane </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 10. EVENTS & LAYOUT MANAGER
