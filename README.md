@@ -90,7 +90,18 @@
 #### 6. PACKAGES, ACCESS SPECIFIERS & INTERFACES
 
 <details>
-<summary> SET </summary>
+<summary> a) Packages </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> b) Interface / Multiple Inheritance </summary>
 <p> 
 
   * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
@@ -156,6 +167,39 @@
  </p>
 </details>
 
+<details>
+<summary> c) Audio </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> d) House Drawing </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> e) Mickey Mouse Drawing </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 10. EVENTS & LAYOUT MANAGER
@@ -176,7 +220,40 @@
 #### 11. SOCKET PROGRAMMING
 
 <details>
-<summary> SET </summary>
+<summary> a) Basic </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> b) Chat until "Bye" </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> c) One Server Multiple Clients </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> d) Calculator </summary>
 <p> 
 
   * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
