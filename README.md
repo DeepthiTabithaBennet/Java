@@ -14,17 +14,16 @@
 
 #### 1. BASIC PROGRAMS
 
-  * Sum of Digits - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
-  * Reversing a String
-  * Palindrome Checker
-  * Armstrong Number
-  * Prime Numbers till n
-  * House Pattern Printing
-  * Calculator
+  * Sum of Digits - [SumOfDigits.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/SumOfDigits.java)
+  * Reversing a String - [StrRev.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/StrRev.java)
+  * Palindrome Checker - [Palindrome.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Palindrome.java)
+  * Armstrong Number - [Armstrong.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Armstrong.java) 
+  * Prime Numbers - [Prime.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Prime.java) 
+  * House Pattern Printing - [House.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/House.java)
+  * Calculator - [Calculator.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Calculator.java)
   * Farenheit to Celsius
   * 2D Array Sorting
   * Grade Printing
-
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
