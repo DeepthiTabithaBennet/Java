@@ -21,16 +21,16 @@
   * Prime Numbers - [Prime.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Prime.java) 
   * House Pattern Printing - [House.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/House.java)
   * Calculator - [Calculator.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Calculator.java)
-  * Farenheit to Celsius
-  * 2D Array Sorting
-  * Grade Printing
+  * Farenheit to Celsius - [FarenheitToCelsius.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/FarenheitToCelsius.java)
+  * 2D Array Sorting - [ArraySort.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ArraySort.java)
+  * Grade Printing - [GradePrinting.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/GradePrinting.java)
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 2. OBJECTS
 
-  * Student Marks / Total - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
-  * Dog Breeds (Array of Objects)
+  * Access Specifiers - Student Marks / Total  - [StudentMarks.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/StudentMarks.java)
+  * Array of Objects - Dog Breeds - [Dog.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Dog.java)
   * Car Data
  
 [//]: # (---------------------------------------------------------------------------------------------)
