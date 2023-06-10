@@ -14,53 +14,63 @@
 
 #### 1. BASIC PROGRAMS
 
-<details>
-<summary> SET </summary>
-<p> 
+  * Sum of Digits - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Reversing a String
+  * Palindrome Checker
+  * Armstrong Number
+  * Prime Numbers till n
+  * House Pattern Printing
+  * Calculator
+  * Farenheit to Celsius
+  * 2D Array Sorting
+  * Grade Printing
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
- 
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 2. OBJECTS
 
-<details>
-<summary> SET </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Student Marks / Total - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Dog Breeds (Array of Objects)
+  * Car Data
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
-
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 3. CLASSES & INHERITANCE
 
-<details>
-<summary> SET </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
- 
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
+  * Shopping List - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Vehicles
+  * Employee Records
+  * Area Calculation
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 4. MULTI-THREADNG
 
 <details>
-<summary> SET </summary>
+<summary> a) Calculator </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> b) Fibonacci and Armstrong </summary>
+<p> 
+
+  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+ 
+  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+
+ </p>
+</details>
+
+<details>
+<summary> c) Producer-Consumer Problem </summary>
 <p> 
 
   * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
@@ -74,16 +84,9 @@
 
 #### 5. EXCEPTION HANDLING
 
-<details>
-<summary> SET </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
- 
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
+  * Division by Zero - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Customized Error Message
+  * Array Index Out of Bounds
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
