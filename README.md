@@ -31,7 +31,7 @@
 
   * Access Specifiers - Student Marks / Total  - [StudentMarks.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/StudentMarks.java)
   * Array of Objects - Dog Breeds - [Dog.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Dog.java)
-  * Car Data
+  * Car Inventory - [CarInfo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CarInfo.java)
  
 [//]: # (---------------------------------------------------------------------------------------------)
 
