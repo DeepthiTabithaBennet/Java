@@ -37,39 +37,62 @@
 
 #### 3. CLASSES & INHERITANCE
 
-  * Shopping List - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
-  * Vehicles
-  * Employee Records
-  * Area Calculation
+  * Hierarchial Inheritance - Shopping List - [ShoppingList.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ShoppingList.java)
+  * Multi-level Inheritance - Vehicles - [Vehicle.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Vehicle.java)
+  * Hierarchial Inheritance - Employee Records - [Employee.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Employee.java)
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 4. MULTI-THREADNG
 
 <details>
-<summary> a) Calculator </summary>
+<summary> a) Basics </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Thread Class - [MultiThreadingThreadClass.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreadingThreadClass.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Runnable Interface - [MultiThreadingRunnableInterface.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreadingRunnableInterface.java)
 
  </p>
 </details>
 
 <details>
-<summary> b) Fibonacci and Armstrong </summary>
+<summary> b) Calculator </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Using Thread Class - [CalculatorThreadClass.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CalculatorThreadClass.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Using Runnable Interface - [CalculatorRunnableInterface.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CalculatorRunnableInterface.java)
 
  </p>
 </details>
 
 <details>
-<summary> c) Producer-Consumer Problem </summary>
+<summary> c) Fibonacci and Reverse Sequence </summary>
+<p> 
+
+  * Java Files - [Fibonacci.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/Fibonacci.java),
+ [Reverse.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/Reverse.java),
+ [Main](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/MultiThreading_Fibonacci.java)
+ 
+  * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading_Fibonacci)
+
+ </p>
+</details>
+
+<details>
+<summary> d) Palindrome and Prime </summary>
+<p> 
+
+  * [Java File](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading/LabStuff/src/multithreading/MultiThreading.java)
+ 
+  * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading)
+
+ </p>
+</details>
+
+<details>
+<summary> e) Producer-Consumer Problem </summary>
 <p> 
 
   * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
@@ -83,9 +106,9 @@
 
 #### 5. EXCEPTION HANDLING
 
-  * Division by Zero - [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
-  * Customized Error Message
-  * Array Index Out of Bounds
+  * Division by Zero - [DivByZero.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/DivByZero.java)
+  * Customized Error Message - [TestCustomException.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/TestCustomException.java)
+  * Array Index Out of Bounds - [ArrayIndex.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ArrayIndex.java)
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
