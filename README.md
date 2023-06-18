@@ -75,7 +75,7 @@
  [Reverse.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/Reverse.java),
  [Main](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/MultiThreading_Fibonacci.java)
  
-  * [Project Folder] (https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading_Fibonacci)
+  * Project Folder - [MultiThreading_Fibonacci] (https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading_Fibonacci)
 
  </p>
 </details>
@@ -86,7 +86,7 @@
 
   * Java File - [MultiThreading.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading/LabStuff/src/multithreading/MultiThreading.java)
  
-  * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading)
+  * Project Folder - [MultiThreading](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading)
 
  </p>
 </details>
@@ -120,7 +120,7 @@
 
   * Java Files - [Addition.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Addition.java), [Subtraction.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Subtraction.java), [Multiplication.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Multiplication.java), [Division.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Division.java), [Modulo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Modulo.java), [Main](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/PackageCalculator.java)
  
-  * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/PackageCreation)
+  * Project Folder - [PackageCreation](https://github.com/DeepthiTabithaBennet/Java/tree/main/PackageCreation)
 
  </p>
 </details>
@@ -144,7 +144,7 @@
 
   * Java File - [StreamsDemo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Streams/src/StreamsDemo.java)
  
-  * [Program Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/Streams)
+  * Program Folder - [Streams](https://github.com/DeepthiTabithaBennet/Java/tree/main/Streams)
 
  </p>
 </details>
