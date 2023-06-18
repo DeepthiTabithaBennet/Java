@@ -84,7 +84,7 @@
 <summary> d) Palindrome and Prime </summary>
 <p> 
 
-  * [Java File](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading/LabStuff/src/multithreading/MultiThreading.java)
+  * Java File - [MultiThreading.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading/LabStuff/src/multithreading/MultiThreading.java)
  
   * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading)
 
@@ -118,9 +118,9 @@
 <summary> a) Packages </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java Files [Addition.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Addition.java), [Subtraction.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Subtraction.java), [Multiplication.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Multiplication.java), [Division.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Division.java), [Modulo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/Calculator/Modulo.java), [Main](https://github.com/DeepthiTabithaBennet/Java/blob/main/PackageCreation/src/PackageCalculator.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * [Project Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/PackageCreation)
 
  </p>
 </details>
