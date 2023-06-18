@@ -129,9 +129,7 @@
 <summary> b) Interface / Multiple Inheritance </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
- 
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Java File - [Proficiency.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Proficiency.java)
 
  </p>
 </details>
@@ -141,12 +139,12 @@
 #### 7. STREAMS
 
 <details>
-<summary> SET </summary>
+<summary> Basic Operations </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [StreamsDemo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Streams/src/StreamsDemo.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * [Program Folder](https://github.com/DeepthiTabithaBennet/Java/tree/main/Streams)
 
  </p>
 </details>
