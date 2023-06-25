@@ -153,16 +153,9 @@
 
 #### 8. JDBC
 
-<details>
-<summary> SET </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [JDBC_Demo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/JDBC_Demo/src/jdbc_demo/JDBC_Demo.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
+  * Program Folder - [JDBC_Demo](https://github.com/DeepthiTabithaBennet/Java/tree/main/JDBC_Demo)
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -172,9 +165,9 @@
 <summary> a) Basics </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [NewApplet.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_StringLineRect/src/NewApplet.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_StringLineRect](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_StringLineRect)
 
  </p>
 </details>
@@ -183,9 +176,9 @@
 <summary> b) Image </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [DisplayImage.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_Image/src/DisplayImage.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_Image](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_Image)
 
  </p>
 </details>
@@ -194,9 +187,9 @@
 <summary> c) Audio </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [NewApplet.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_Audio/src/NewApplet.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_Audio](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_Audio)
 
  </p>
 </details>
@@ -205,9 +198,9 @@
 <summary> d) House Drawing </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [HouseDrawing.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_House/src/HouseDrawing.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_House](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_House)
 
  </p>
 </details>
@@ -216,9 +209,9 @@
 <summary> e) Mickey Mouse Drawing </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File [MickeyMouse.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_MickeyMouse/src/MickeyMouse.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_MickeyMouse](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_MickeyMouse)
 
  </p>
 </details>
@@ -227,9 +220,9 @@
 <summary> f) Plane </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [Plane.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Applet_Plane/src/Plane.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Program Folder - [Applet_Plane](https://github.com/DeepthiTabithaBennet/Java/tree/main/Applet_Plane)
 
  </p>
 </details>
