@@ -138,16 +138,9 @@
 
 #### 7. STREAMS
 
-<details>
-<summary> Basic Operations </summary>
-<p> 
-
   * Java File - [StreamsDemo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Streams/src/StreamsDemo.java)
  
   * Program Folder - [Streams](https://github.com/DeepthiTabithaBennet/Java/tree/main/Streams)
-
- </p>
-</details>
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
