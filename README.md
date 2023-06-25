@@ -75,7 +75,7 @@
  [Reverse.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/Reverse.java),
  [Main](https://github.com/DeepthiTabithaBennet/Java/blob/main/MultiThreading_Fibonacci/src/multithreading_fibonacci/MultiThreading_Fibonacci.java)
  
-  * Project Folder - [MultiThreading_Fibonacci] (https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading_Fibonacci)
+  * Project Folder - [MultiThreading_Fibonacci](https://github.com/DeepthiTabithaBennet/Java/tree/main/MultiThreading_Fibonacci)
 
  </p>
 </details>
