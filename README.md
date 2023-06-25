@@ -25,6 +25,8 @@
   * 2D Array Sorting - [ArraySort.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ArraySort.java)
   * Grade Printing - [GradePrinting.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/GradePrinting.java)
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 2. OBJECTS
@@ -32,7 +34,9 @@
   * Access Specifiers - Student Marks / Total  - [StudentMarks.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/StudentMarks.java)
   * Array of Objects - Dog Breeds - [Dog.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Dog.java)
   * Car Inventory - [CarInfo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CarInfo.java)
- 
+
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 3. CLASSES & INHERITANCE
@@ -40,6 +44,8 @@
   * Hierarchial Inheritance - Shopping List - [ShoppingList.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ShoppingList.java)
   * Multi-level Inheritance - Vehicles - [Vehicle.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Vehicle.java)
   * Hierarchial Inheritance - Employee Records - [Employee.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Employee.java)
+
+-----
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -102,6 +108,8 @@
  </p>
 </details>
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 5. EXCEPTION HANDLING
@@ -109,6 +117,8 @@
   * Division by Zero - [DivByZero.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/DivByZero.java)
   * Customized Error Message - [TestCustomException.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/TestCustomException.java)
   * Array Index Out of Bounds - [ArrayIndex.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/ArrayIndex.java)
+
+-----
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -134,6 +144,8 @@
  </p>
 </details>
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 7. STREAMS
@@ -142,6 +154,8 @@
  
   * Program Folder - [Streams](https://github.com/DeepthiTabithaBennet/Java/tree/main/Streams)
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 8. JDBC
@@ -149,6 +163,8 @@
   * Java File - [JDBC_Demo.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/JDBC_Demo/src/jdbc_demo/JDBC_Demo.java)
  
   * Program Folder - [JDBC_Demo](https://github.com/DeepthiTabithaBennet/Java/tree/main/JDBC_Demo)
+
+-----
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -220,6 +236,8 @@
  </p>
 </details>
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 10. EVENTS & LAYOUT MANAGER
@@ -234,6 +252,8 @@
 
  </p>
 </details>
+
+-----
 
 [//]: # (---------------------------------------------------------------------------------------------)
 
@@ -283,6 +303,8 @@
  </p>
 </details>
 
+-----
+
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 12. RMI
@@ -297,3 +319,5 @@
 
  </p>
 </details>
+
+-----
