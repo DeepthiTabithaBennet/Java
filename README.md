@@ -244,16 +244,9 @@
 
 #### 10. EVENTS & LAYOUT MANAGER
 
-<details>
-<summary> SET </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java File - [NewJFrame.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/Events/src/NewJFrame.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
-
- </p>
-</details>
+  * Program Folder - [Events](https://github.com/DeepthiTabithaBennet/Java/tree/main/Events)
 
 -----
 
@@ -265,9 +258,13 @@
 <summary> a) Basic </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Basic Client Java File - [BasicClient.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/BasicClient/src/BasicClient.java)
+
+  * Basic Client Program Folder - [BasicClient](https://github.com/DeepthiTabithaBennet/Java/tree/main/BasicClient)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Basic Server Java File - [BasicServer.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/BasicServer/src/BasicServer.java)
+
+  * Basic Server Program Folder - [BasicServer](https://github.com/DeepthiTabithaBennet/Java/tree/main/BasicServer)
 
  </p>
 </details>
