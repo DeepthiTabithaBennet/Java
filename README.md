@@ -8,7 +8,7 @@
 
 ----
 
-### Table Of Contents _(Click to Expand)_ :
+### Table Of Contents :
 
 -----
 
@@ -52,6 +52,7 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 4. MULTI-THREADNG
+_(Click to Expand)_
 
 <details>
 <summary> a) Basics </summary>
@@ -125,6 +126,7 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 6. PACKAGES, ACCESS SPECIFIERS & INTERFACES
+_(Click to Expand)_
 
 <details>
 <summary> a) Packages </summary>
@@ -171,6 +173,7 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 9. APPLET
+_(Click to Expand)_
 
 <details>
 <summary> a) Basics </summary>
@@ -253,7 +256,7 @@
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 11. SOCKET PROGRAMMING
-
+_(Click to Expand)_
 <details>
 <summary> a) Basic </summary>
 <p> 
@@ -281,23 +284,16 @@
 </details>
 
 <details>
-<summary> c) One Server Multiple Clients </summary>
+<summary> c) Calculator </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Calculator Client Java File - [CalculatorClient.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CalculatorClient/src/CalculatorClient.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Calculator Client Program Folder - [CalculatorClient](https://github.com/DeepthiTabithaBennet/Java/tree/main/CalculatorClient)
 
- </p>
-</details>
+  * Calculator Server Java File - [CalculatorServer.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/CalculatorServer/src/CalculatorServer.java)
 
-<details>
-<summary> d) Calculator </summary>
-<p> 
-
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
- 
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Calculator Server Program Folder - [CalculatorServer](https://github.com/DeepthiTabithaBennet/Java/tree/main/CalculatorServer)
 
  </p>
 </details>
