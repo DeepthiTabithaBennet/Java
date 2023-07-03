@@ -303,16 +303,9 @@ _(Click to Expand)_
 [//]: # (---------------------------------------------------------------------------------------------)
 
 #### 12. RMI
-
-<details>
-<summary> SET </summary>
-<p> 
     
   * Java Files - [ClientRMI.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/ClientRMI.java), [ServerRMI.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/ServerRMI.java), [adder.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/adder.java)
  
   * Project Folder - [RMI](https://github.com/DeepthiTabithaBennet/Java/tree/main/RMI)
-
- </p>
-</details>
 
 -----
