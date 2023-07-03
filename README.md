@@ -104,9 +104,9 @@ _(Click to Expand)_
 <summary> e) Producer-Consumer Problem </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java Files - [Producer.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/multiThreading/src/multithreading1/Producer.java), [Consumer.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/multiThreading/src/multithreading1/Consumer.java), [MultiThreading2.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/multiThreading/src/multithreading1/MultiThreading2.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Project Folder - [multiThreading](https://github.com/DeepthiTabithaBennet/Java/tree/main/multiThreading)
 
  </p>
 </details>
@@ -308,9 +308,9 @@ _(Click to Expand)_
 <summary> SET </summary>
 <p> 
     
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Java Files - [ClientRMI.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/ClientRMI.java), [ServerRMI.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/ServerRMI.java), [adder.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/RMI/src/adder.java)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Project Folder - [RMI](https://github.com/DeepthiTabithaBennet/Java/tree/main/RMI)
 
  </p>
 </details>
