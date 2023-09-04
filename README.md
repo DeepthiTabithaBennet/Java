@@ -276,9 +276,13 @@ _(Click to Expand)_
 <summary> b) Chat until "Bye" </summary>
 <p> 
 
-  * [Set](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Set.cpp)
+  * Client Java File - [Clientsocket1.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/clientsocket1/src/clientsocket1/Clientsocket1.java)
+
+  * Client Program Folder - [clientsocket1](https://github.com/DeepthiTabithaBennet/Java/tree/main/clientsocket1)
  
-  * [Disjoint Sets](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit/blob/main/Set/Disjoint_Set.cpp)
+  * Server Java File - [Serversocket1.java](https://github.com/DeepthiTabithaBennet/Java/blob/main/serversocket1/src/serversocket1/Serversocket1.java)
+
+  * Server Program Folder - [serversocket1](https://github.com/DeepthiTabithaBennet/Java/tree/main/serversocket1)
 
  </p>
 </details>
